@@ -20,11 +20,11 @@ Below are the list of executive committees and their posts.
 #### 2019-20
 
 |President | Lam Tsun Yin | 5F |
-|Vice president | Law Chak Nam  | 
+|Vice president | Law Chak Nam  | 5E |
 |Vice president | Lee Bo Ki  | 5E | 
 |Maths designer | Li Chun Lok | 2E | 
-|Financial Secretary | Chan Leong Ip  | 
-|Internal Secretary | Lam Ming Yau  | 
+|Financial Secretary | Chan Leong Ip  | 4F |
+|Internal Secretary | Lam Ming Yau  | 4F| 
 |Internal Secretary | Cheng Cheuk Lam  | 4F |
 |External Secretary | Jason Ho  | 3A | 
 |External Secretary | Kwok Kai Yiu | 5D | 
