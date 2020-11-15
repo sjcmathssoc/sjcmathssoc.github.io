@@ -43,6 +43,17 @@ Below are the list of executive committees and their posts.
 |Club Advisor|	Toby Lam|	4F|
 
 
+#### 2013-14
+
+|Andy Cheung|
+|Caius Mok|
+|Eric Cheng|
+|Terence Tsui|
+
+#### 2012-13
+
+|曾之卓|
+
 #### 2010-11
 
 |President|					Mak Hugo Wai Leung| 	6B| hugomak93@hotmail.com|
@@ -101,3 +112,8 @@ Below are the list of executive committees and their posts.
 |External Secretary|		Matthew Yeung|	6B|
 |Financial Secretary|		Ray Mak| 		6C|
 |Publication Secretary| 	Derrick Fok| 	6B|
+
+
+#### Sources
+
+[here](https://sjcmathssoc.github.io/2020/11/15/history-of-the-mathematics-society.html)
