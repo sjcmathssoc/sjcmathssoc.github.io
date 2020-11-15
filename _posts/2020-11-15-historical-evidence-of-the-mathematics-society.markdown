@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  "History of the mathematics society"
+title:  "Historical evidence of the mathematics society"
 date:   2020-11-15 15:31:44 +0800
 ---
 
