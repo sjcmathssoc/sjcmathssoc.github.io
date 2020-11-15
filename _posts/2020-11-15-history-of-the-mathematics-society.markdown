@@ -8,7 +8,9 @@ Sadly, much information about mathematics society's history has been lost in tim
 
 Facebook:
 
-[2012-13](https://www.facebook.com/SJCMathematicsSociety20122013/)
+[2018-current](https://www.facebook.com/sjcmathssoc/)
+
+[2012-14](https://www.facebook.com/SJCMathematicsSociety20122013/)
 
 [2014-15](https://www.facebook.com/sjcmathsoc201415/)
 
