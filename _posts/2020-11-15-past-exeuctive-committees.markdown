@@ -42,6 +42,13 @@ Below are the list of executive committees and their posts.
 |Financial Secretary|	Adrian Li|	5F|
 |Club Advisor|	Toby Lam|	4F|
 
+#### 2017-18
+
+#### 2016-17
+
+#### 2015-16
+
+#### 2014-15
 
 #### 2013-14
 
@@ -53,6 +60,8 @@ Below are the list of executive committees and their posts.
 #### 2012-13
 
 |曾之卓|
+
+#### 2011-12
 
 #### 2010-11
 
@@ -68,8 +77,6 @@ Below are the list of executive committees and their posts.
 |Mathematics Director|		Eddy Poon Wui Cheung| 	5G| y001536@hotmail.com|
 |Club Coordinator|			Thomas Fung Ho Kwan|	4F| thomas.fung@hotmail.com |
 
-
-
 #### 2009-10
 
 |Chairman|				Alvin Ng| 		6B|
@@ -80,6 +87,8 @@ Below are the list of executive committees and their posts.
 |Financial Secretary|		Hubert Hui| 		6B|
 |Publication Secretary| 	Sunny Lai| 	6C|
 |Math Director|				Ronald Choy| 6C|
+
+#### 2008-09
 
 #### 2007-08
 
@@ -92,6 +101,10 @@ Below are the list of executive committees and their posts.
 |Publication Secretary| 	Michael Chow| 	6B|
 |Math Director|				Trevor Wong|	6B|
 |Student Advisor|			Joseph Tse|     6B|
+
+#### 2006-07
+
+#### 2005-06
 
 #### 2004-05
 
