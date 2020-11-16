@@ -4,7 +4,7 @@ title:  "Historical evidence of the mathematics society"
 date:   2020-11-15 15:31:44 +0800
 ---
 
-Sadly, much information about mathematics society's history has been lost in time. We hope that we will be able to keep a much better record of the operations of the mathematics society. Below is a list of links of past mathematics societies.
+Sadly, much information about mathematics society's history has been lost in time. We hope that we will be able to keep a much better record of the operations of the mathematics society. 
 
 Facebook:
 
