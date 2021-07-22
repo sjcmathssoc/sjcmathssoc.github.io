@@ -40,7 +40,7 @@ Listed below are the executive committees of the mathematics society over the ye
 |Math Designer|	Darin Chau|	5E|
 |Internal Secretary|	Martin Chau|	5E|
 |Financial Secretary|	Adrian Li|	5F|
-|Club Advisor| Toby Lam Tsun Yin |	4F|
+|Club Advisor| Toby Lam Tsun Yin|	4F|
 
 #### 2017-18
 
