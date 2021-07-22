@@ -44,6 +44,14 @@ Listed below are the executive committees of the mathematics society over the ye
 
 #### 2017-18
 
+|Adrian Li|
+|Anthony Lam|
+|Clement Wong|
+|Clement Siu|
+|Brencis Yu|
+|Steven Zhao|
+|Steven Chan|
+
 #### 2016-17
 
 #### 2015-16
