@@ -54,7 +54,11 @@ Listed below are the executive committees of the mathematics society over the ye
 
 #### 2016-17
 
+|Chan Chun Wing|
+
 #### 2015-16
+
+|Yuen Ka Fai Kevin|
 
 #### 2014-15
 
