@@ -4,7 +4,7 @@ title:  "Past executive committees"
 date:   2020-11-15 15:31:44 +0800
 ---
 
-Listed below are the executive committees of the mathematics society over the years.
+Listed below are the executive committees of the mathematics society over the years. The list is sadly incomplete.
 
 #### 2020-21
 
