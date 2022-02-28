@@ -29,9 +29,6 @@ Listed below are the executive committees of the mathematics society over the ye
 |External Secretary | Jason Ho  | 3A | 
 |External Secretary | Kwok Kai Yiu | 5D | 
 
-
-
-
 #### 2018-19
 
 |President|	Steven Zhao|	5F|
@@ -137,7 +134,6 @@ Listed below are the executive committees of the mathematics society over the ye
 |External Secretary|		Matthew Yeung|	6B|
 |Financial Secretary|		Ray Mak| 		6C|
 |Publication Secretary| 	Derrick Fok| 	6B|
-
 
 #### Sources
 
