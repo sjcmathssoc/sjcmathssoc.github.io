@@ -8,10 +8,10 @@ The new logo was designed during 2017-18 by Darin Chau, adapting the previous lo
 
 New Logo Design:
 
- <img src="{{site.url}}/download/logos/New.jpg"  height="200"> 
+ <img src="{{site.url}}/download/Logos/New.jpg"  height="200"> 
 
 Old Logo Design:
 
- <img src="{{site.url}}/download/logos/Old.jpg"  height="225"> 
+ <img src="{{site.url}}/download/Logos/Old.jpg"  height="225"> 
 
 

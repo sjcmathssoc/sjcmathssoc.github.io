@@ -17,4 +17,3 @@ Facebook:
 School website:
 
 [2003 - 2011](https://web.archive.org/web/2011*/https://www.sjc.edu.hk/~mathsoc/)
-

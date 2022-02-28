@@ -141,4 +141,4 @@ Listed below are the executive committees of the mathematics society over the ye
 
 #### Sources
 
-[here](https://sjcmathssoc.github.io/2020/11/15/history-of-the-mathematics-society.html)
+[here](https://sjcmathssoc.github.io/2020/11/15/historical-evidence-of-the-mathematics-society.html)
