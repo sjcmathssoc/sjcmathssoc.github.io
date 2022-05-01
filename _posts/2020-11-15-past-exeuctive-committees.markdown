@@ -19,7 +19,7 @@ Listed below are the executive committees of the mathematics society over the ye
 
 #### 2019-20
 
-|President | Toby Lam Tsun Yin | 5F |
+|President | Toby Lam | 5F |
 |Vice president | Law Chak Nam  | 5E |
 |Vice president | Lee Bo Ki  | 5E | 
 |Maths designer | Li Chun Lok | 2E | 
@@ -37,7 +37,7 @@ Listed below are the executive committees of the mathematics society over the ye
 |Math Designer|	Darin Chau|	5E|
 |Internal Secretary|	Martin Chau|	5E|
 |Financial Secretary|	Adrian Li|	5F|
-|Club Advisor| Toby Lam Tsun Yin|	4F|
+|Club Advisor| Toby Lam |	4F|
 
 #### 2017-18
 
