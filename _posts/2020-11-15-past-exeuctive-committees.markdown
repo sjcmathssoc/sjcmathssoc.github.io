@@ -146,6 +146,7 @@ Listed below are the executive committees of the mathematics society over the ye
 | Publication Secretary         | Derrick Fok                   | 6B                            |
 
 #### 2002-03
+
 | Chairman                      | Ivan Ip                       | 6B                            |
 | Vice Chairman                 | Chan Ching Bun                | 6B                            |
 | Vice Chairman                 | Kevin Sum                     | 6C                            |
