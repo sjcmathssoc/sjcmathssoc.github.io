@@ -16,4 +16,8 @@ Old Logo Design:
 
 Even Older Logo Design:
 
- <img src="{{site.url}}/download/Logos/Older.jpg"  height="225"> 
+<img src="{{site.url}}/download/Logos/Older.jpg"  height="225"> 
+
+2002 Logo Design: 
+
+<img src="{{site.url}}/download/Logos/2002.jpg"  height="225"> 

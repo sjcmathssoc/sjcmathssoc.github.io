@@ -17,3 +17,7 @@ Facebook:
 School website:
 
 [2003 - 2011](https://web.archive.org/web/2011*/https://www.sjc.edu.hk/~mathsoc/)
+
+GnW Magazines:
+
+[2002]({{site.url}}/images/2002_GnW_Magazine.jpg)

@@ -145,6 +145,15 @@ Listed below are the executive committees of the mathematics society over the ye
 | Financial Secretary           | Ray Mak                       | 6C                            |
 | Publication Secretary         | Derrick Fok                   | 6B                            |
 
+#### 2002-03
+| Chairman                      | Ivan Ip                       | 6B                            |
+| Vice Chairman                 | Chan Ching Bun                | 6B                            |
+| Vice Chairman                 | Kevin Sum                     | 6C                            |
+| Internal Secretary            | Bendix Li                     | 6B                            |
+| External Secretary            | Peter Ng                      | 6B                            |
+| Financial Secretary           | Matsuta Ng                    | 6B                            |
+| Honourable Designer           | Marcus Lam                    | 6C                            |
+
 #### Sources
 
 [here](https://sjcmathssoc.github.io/2020/11/15/historical-evidence-of-the-mathematics-society.html)
