@@ -9,8 +9,8 @@ Listed below are the executive committees of the mathematics society over the ye
 #### 2021-22
 
 | President                     | Li Chun Lok                   | 4F                            |
-| Vice President                | Sit Pok Shun                  | 4F                            |
-| Vice President                | Mak Tsz Long                  | 4F                            |
+| Vice President                | Sit Pok Shun Jaden            | 4F                            |
+| Vice President                | Mak Tsz Long Gavin            | 4F                            |
 | Internal Secretary            | Chiu Pak Hei                  | 3E                            |
 | Financial Secretary           | Tse Wilson                    | 4F                            |
 | Maths Designer                | Fok Pak Yin                   | 4E                            |
