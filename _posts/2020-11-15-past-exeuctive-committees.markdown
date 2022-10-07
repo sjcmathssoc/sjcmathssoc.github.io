@@ -6,9 +6,23 @@ date:   2020-11-15 15:31:44 +0800
 
 Listed below are the executive committees of the mathematics society over the years. The list is sadly incomplete.
 
+#### 2022-23
+
+| President                     | Li Chun Lok Isaac             | 5F                            |
+| Vice President                | Li Tsz Him                    | 5F                            |
+| Vice President                | Chiu Pak Hei                  | 4F                            |
+| Vice President                | Tse Wilson                    | 5F                            |
+| Financial Secretary           | Cheung Chadwick Corwin        | 3E                            |
+| Maths Designer                | Ng Chun Hin Jamie             | 4F                            |
+| Maths Designer                | Chiu Tsz Hei                  | 4E                            |
+| Internal Secretary            | Lai Shun Him Anthony          | 5F                            |
+| External Secretary            | Au-Yeung Hak Shun             | 5E                            |
+| Student Coordinator           | Sit Pok Shun Jaden            | 5F                            |
+
+
 #### 2021-22
 
-| President                     | Li Chun Lok                   | 4F                            |
+| President                     | Li Chun Lok Isaac             | 4F                            |
 | Vice President                | Sit Pok Shun Jaden            | 4F                            |
 | Vice President                | Mak Tsz Long Gavin            | 4F                            |
 | Internal Secretary            | Chiu Pak Hei                  | 3E                            |
@@ -24,7 +38,7 @@ Listed below are the executive committees of the mathematics society over the ye
 | Internal Secretary            | Yim Hoi Chun                  | 5F                            |
 | Internal Secretary            | Shum Hong Ting                | 4E                            |
 | Financial Secretary           | Lau Ian                       | 5E                            |
-| Maths Designer                | Li Chun Lok                   | 3E                            |
+| Maths Designer                | Li Chun Lok Isaac             | 3E                            |
 | Student Coordinator           | Jason Ho                      | 4E                            |
 
 #### 2019-20
