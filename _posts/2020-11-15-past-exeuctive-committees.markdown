@@ -92,7 +92,15 @@ Listed below are the executive committees of the mathematics society over the ye
 
 #### 2012-13
 
-| 曾之卓                        |
+| Tsang Chi Cheuk               | President                     |
+| Kwan Yu Young                 | Vice president                |
+| Kwan Chun Hin                 | Vice president                |
+| Tong Po Hin                   | Financial Secretary           |
+| Tsui Ho Lung                  | Internal Secretary            |
+| Leung Siu Yeung               | External Secretary            |
+| Li Yik Sum                    | IT Secretary                  |
+| Cheung Man Hong               | Mathematics Director          |
+| Cheng Tak Ho                  | Mathematics Director          |
 
 #### 2011-12
 
