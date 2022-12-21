@@ -75,9 +75,13 @@ Listed below are the executive committees of the mathematics society over the ye
 
 #### 2016-17
 
+<!--- Toby Lam's memory --->
+
 | Chan Chun Wing                |
 
 #### 2015-16
+
+<!--- Toby Lam's memory --->
 
 | Yuen Ka Fai Kevin             |
 
@@ -85,12 +89,30 @@ Listed below are the executive committees of the mathematics society over the ye
 
 #### 2013-14
 
+<!--- I think I got this information from facebook somewhere, it makes sense as they all are form 5s during 2013-14 -->
+
 | Andy Cheung                   |
 | Caius Mok                     |
 | Eric Cheng                    |
 | Terence Tsui                  |
 
 #### 2012-13
+
+<!--- This is from the powerpoint here https://liveoles.wixsite.com/sjcmathsoc/resources. This has to be the 2012-13 committee as Terrence Tsui is really form 4 then. So the previous 2012-13 committee list should've been 2011-12 instead? Isaac pls fix the formatting lmao -->
+
+| Jason Tsang              | President                     | 5F |
+| Ian Kwan                | Vice-president                | 5F |
+| Kwan Chun Hin                 | Vice-president                | 5F |
+| Yalsin Li                   | I.T Secretary           | 4F |
+| Wayne Leung                 | Internal Secretary            | 5F|
+| Terrence Tsui              | External Secretary            | 4F |
+| Edward Tong                    | Financial Secretary                  | 5F |
+| Andy Cheung              | Math Director          | 4F |
+| Eric Cheung                 | Math Director          | 4F |
+
+#### 2011-12
+
+<!---- https://liveoles.wixsite.com/sjcmathsoc/committee -->
 
 | Tsang Chi Cheuk               | President                     |
 | Kwan Yu Young                 | Vice president                |
@@ -101,8 +123,6 @@ Listed below are the executive committees of the mathematics society over the ye
 | Li Yik Sum                    | IT Secretary                  |
 | Cheung Man Hong               | Mathematics Director          |
 | Cheng Tak Ho                  | Mathematics Director          |
-
-#### 2011-12
 
 #### 2010-11
 
