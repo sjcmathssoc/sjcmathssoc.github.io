@@ -65,6 +65,8 @@ Listed below are the executive committees of the mathematics society over the ye
 
 #### 2017-18
 
+<!-- Adrian Li is the president, unsure about the rest ~ Toby --> 
+
 | Adrian Li                     |
 | Anthony Lam                   |
 | Clement Wong                  |
@@ -89,7 +91,7 @@ Listed below are the executive committees of the mathematics society over the ye
 
 #### 2013-14
 
-<!--- I think I got this information from facebook somewhere, it makes sense as they all are form 5s during 2013-14 -->
+<!--- I think I got this information from facebook somewhere, it makes sense as they all are form 5s during 2013-14 ~ Toby -->
 
 | Andy Cheung                   |
 | Caius Mok                     |
@@ -98,7 +100,7 @@ Listed below are the executive committees of the mathematics society over the ye
 
 #### 2012-13
 
-<!--- This is from the powerpoint here https://liveoles.wixsite.com/sjcmathsoc/resources. This has to be the 2012-13 committee as Terrence Tsui is really form 4 then. So the previous 2012-13 committee list should've been 2011-12 instead? Isaac pls fix the formatting lmao -->
+<!--- This is from the powerpoint here https://liveoles.wixsite.com/sjcmathsoc/resources. This has to be the 2012-13 committee as Terrence Tsui is really form 4 then. So the previous 2012-13 committee list should've been 2011-12 instead? Isaac pls fix the formatting lmao ~ Toby -->
 
 | Jason Tsang              | President                     | 5F |
 | Ian Kwan                | Vice-president                | 5F |
