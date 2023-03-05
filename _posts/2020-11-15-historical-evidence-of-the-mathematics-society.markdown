@@ -4,7 +4,7 @@ title:  "Historical evidence of the mathematics society"
 date:   2020-11-15 15:31:44 +0800
 ---
 
-Sadly, much information about mathematics society's history has been lost in time. We hope that we will be able to keep a much better record of the operations of the mathematics society. 
+Sadly, much information about mathematics society's history has been lost in time. We hope that we will be able to keep a much better record of the operations of the mathematics society.
 
 Facebook:
 
@@ -13,6 +13,10 @@ Facebook:
 [2012-14](https://www.facebook.com/SJCMathematicsSociety20122013/)
 
 [2014-15](https://www.facebook.com/sjcmathsoc201415/)
+
+Website:
+
+[2012-13](https://liveoles.wixsite.com/sjcmathsoc)
 
 School website:
 

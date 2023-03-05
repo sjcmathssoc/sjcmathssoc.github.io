@@ -10,14 +10,18 @@ New Logo Design:
 
  <img src="{{site.url}}/download/Logos/New.jpg"  height="200"> 
 
-Old Logo Design:
+[2012-13 Logo Design](https://liveoles.wixsite.com/sjcmathsoc/resources):
+
+<img src="{{site.url}}/download/Logos/2012-13.png"  height="225"> 
+
+Compact version:
 
  <img src="{{site.url}}/download/Logos/Old.jpg"  height="225"> 
 
-Even Older Logo Design:
+[2003-04 Logo Design](https://web.archive.org/web/20030921071200/http://sjc.edu.hk/~mathsoc/):
 
 <img src="{{site.url}}/download/Logos/Older.jpg"  height="225"> 
 
-2002 Logo Design: 
+[2002 Logo Design]({{site.url}}/images/2002_GnW_Magazine.jpg): 
 
 <img src="{{site.url}}/download/Logos/2002.jpg"  height="200"> 
