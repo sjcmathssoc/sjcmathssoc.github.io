@@ -15,6 +15,9 @@ gem "minima", "~> 2.5"
 gem "github-pages", "~> 206", group: :jekyll_plugins
 # If you have any plugins, put them here!
 
+# https://github.com/jekyll/jekyll-redirect-from
+gem 'jekyll-redirect-from'
+
 # Windows and JRuby does not include zoneinfo files, so bundle the tzinfo-data gem
 # and associated library.
 platforms :mingw, :x64_mingw, :mswin, :jruby do
