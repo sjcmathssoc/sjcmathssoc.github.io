@@ -12,3 +12,6 @@ You could find us on [Instagram](https://www.instagram.com/sjcmathssoc/) or [Fac
 
 Contact us by sending an email to sjcmathssoc@gmail.com
 
+More information:
+
+* [List of committees]({{site.url}}/2020/11/15/past-exeuctive-committees.html)
