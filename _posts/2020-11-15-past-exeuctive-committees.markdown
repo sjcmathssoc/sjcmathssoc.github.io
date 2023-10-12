@@ -5,6 +5,17 @@ date:   2020-11-15 15:31:44 +0800
 ---
 
 Listed below are the executive committees of the mathematics society over the years. The list is sadly incomplete.
+#### 2023-24
+| President                     | Jamie Ng                      | 5F                            |
+| Vice President                | Corwin Cheung                 | 4F                            |
+| Vice President                | Marcus Chiu                   | 5F                            |
+| Vice President                | Marco Chiu                    | 5E                            |
+| Internal Secretary            | Ethan Chan                    | 5F                            |
+| External Secretary            | John Choi                     | 5F                            |
+| Financial Secretary           | Andy Cheung                   | 4F                            |
+| Marketing Secretary           | Angus Cheung                  | 3E                            |
+| Maths Designer                | Michael Tang                  | 4F                            |
+| Maths Designer                | Alex Lam                      | 5F                            |
 
 #### 2022-23
 
