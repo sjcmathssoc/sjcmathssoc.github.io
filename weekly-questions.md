@@ -2,6 +2,7 @@
 layout: page
 title: Weekly Questions
 permalink: /questions
+exclude: true
 ---
 
 Here's the questions and solutions to previous weekly questions

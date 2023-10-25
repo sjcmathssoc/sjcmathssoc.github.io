@@ -1,10 +1,17 @@
 ---
 layout: page
-title:  "Historical evidence of the mathematics society"
+title:  "History"
 date:   2020-11-15 15:31:44 +0800
+redirect_from: 
+    - /2020/11/15/historical-evidence-of-the-mathematics-society
+exclude: true
 ---
 
-Sadly, much information about mathematics society's history has been lost in time. We hope that we will be able to keep a much better record of the operations of the mathematics society.
+We were founded in 1991.
+
+## Historical Evidence
+
+Sadly, much information about mathematics society's history has been lost in time. We hope that we will be able to keep a much better record of the operations of the mathematics society. Below are pages where one can learn more about our history.
 
 Facebook:
 
