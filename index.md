@@ -2,7 +2,6 @@
 layout: home
 redirect_from: 
     - /about
-    - /home
 ---
 
 # Home
