@@ -1,7 +1,11 @@
 ---
 layout: page
 title:  "Logo designs"
+permalink: /logo-designs
 date:   2020-11-16 15:31:44 +0800
+redirect_from:
+    - /2020/11/16/logo-designs
+exclude: true
 ---
 
 The new logo was designed during 2017-18 by Darin Chau, adapting the previous logo's design. It was then re-traced by Isaac Li during 2018-19.

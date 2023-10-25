@@ -1,7 +1,9 @@
 ---
 layout: page
-title:  "Geometry Reference"
-date:   2020-12-28 00:00:00 +0800
+title: "Geometry Reference"
+redirect_from: 
+    - /2020/12/27/geometry-reference
+exclude: true
 ---
 
 One of our executive committees has recently created a geometry reference for the DSE curriculum on behalf of the mathematics society. Here's the [link](https://sjcmathssoc.github.io\download\geometry_references.pdf)

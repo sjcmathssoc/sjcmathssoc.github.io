@@ -1,7 +1,10 @@
 ---
 layout: page
-title:  "Past executive committees"
-date:   2020-11-15 15:31:44 +0800
+title:  "Eexecutive committees"
+permalink: /executive-committees
+exclude: true
+redirect_from:
+    - /2020/11/15/past-exeuctive-committees
 ---
 
 Listed below are the executive committees of the mathematics society over the years. The list is sadly incomplete.
