@@ -4,8 +4,6 @@ redirect_from:
     - /about
 ---
 
-# Home
-
 <img style = "padding-left: 10px;" align="right" src="{{site.url}}/download/Logos/New.jpg" width='150' >
 
 We're the St. Joseph's College Mathematics Society! Welcome!
