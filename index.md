@@ -1,10 +1,9 @@
 ---
 layout: home
+title: Home
 redirect_from: 
     - /about
 ---
-
-# Home
 
 <img style = "padding-left: 10px;" align="right" src="{{site.url}}/download/Logos/New.jpg" width='150' >
 
