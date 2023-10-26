@@ -82,66 +82,96 @@ Listed below are the executive committees of the mathematics society over the ye
 
 <!-- Adrian Li is the president, unsure about the rest ~ Toby --> 
 
-| Adrian Li                     |
-| Anthony Lam                   |
-| Clement Wong                  |
-| Clement Siu                   |
-| Brencis Yu                    |
-| Steven Zhao                   |
-| Steven Chan                   |
+| President                     | Adrian Li                | 
+| Vice-president                | Anthony Lam                    | 
+| Vice-president                | Steven Zhao                   | 
+| Internal Secretary            | Clement Siu                 | 
+| Financial Secretary           | Clement  Wong                   | 
+| General Secretary                | Michael Chan                   | 
+| Club Advisor                  | Toby Lam                      | 
 
 #### 2016-17
 
-<!--- Toby Lam's memory --->
-
-| Chan Chun Wing                |
+| Chan Chun Wing|
 
 #### 2015-16
 
-<!--- Toby Lam's memory --->
+| Chairman                     | Yuen Ka Fai Kevin                | 
+| Vice Chairman               | Lau Tsz Ping Jeffrey                    | 
+| External Secretary            | Ong Chun Kwan                 | 
+| Internal Secretary            | Lau Chun Lok                 | 
+| Internal Secretary            | Shao Mang Hong                | 
+| Internal Secretary            | Wong Ting Hei Matthew                 | 
+| Financial Secretary           | Wong King Long Dylan                 | 
+| Publish and Design Officer           | Wong Chak Chung                | 
+| Art Director               | Wu Siu Yeung                   | 
+| Mathematics Director                  | Chan Chun Wing                     | 
+| Mathematics Director                  | Lo Chun Kai                     | 
+| Mathematics Director                  | So Yiu Hei                     | 
 
-| Yuen Ka Fai Kevin             |
 
 #### 2014-15
 
+| President                     | Chadwick Wong               | 5E |
+| Vice-president                | Paul Lin                    | 5E |
+| Financial Secretary           | Felix Wong                   | 5E |
+| External Secretary            | Caius Mok                 |  5E |
+| External Secretary            | Winfield Wong                 | 5D | 
+| Internal Secretary            | Marko Yu                 | 5D |
+| Internal Secretary            | Dexter Tam                |  5E |
+| Publish and Design Officer           | Matthew Poon                | 4E |
+| General Secretary                | Matthew Wong                   | 4E |
+| Mathematics Director                  | Kevin Yuen                     | 4E |
+| Mathematics Director                  | Thomas Ong                     | 4E |
+| Mathematics Director                  | Peter Lau                     | 4E |
+
+
 #### 2013-14
 
-<!--- I think I got this information from facebook somewhere, it makes sense as they all are form 5s during 2013-14 ~ Toby -->
-<!--- From https://www.sjc.edu.hk/academic.php?content=result that Terrence took DSE in 2015 -->
+<!--- From GWJ -->
 
-| Andy Cheung                   |
-| Caius Mok                     |
-| Eric Cheng                    |
-| Terence Tsui                  |
+| President                    | Tsui Ho Lung                | 
+| Vice-President               | Cheung Man Hong                    | 
+| Financial Secretary           | Cheng Tak Ho                | 
+| External Secretary            | Li Yik Sum                 | 
+| External Secretary            | Wong Hon Fai                 | 
+| Internal Secretary            | Leung Ka ong                 | 
+| Internal Secretary            | Mok Hoi Yiu                | 
+| IT Secretary           | Wong Kin Chung                | 
+| Publish and Design Officer           | Lin Hao                | 
+| Mathematics Director                  | Poon Kam Hei                     | 
+| Mathematics Director                  | Yu Yun Hei                    | 
+| Mathematics Director                  | Wong Cheuk Yin                     | 
+
 
 #### 2012-13
 
 <!--- This is from the powerpoint here https://liveoles.wixsite.com/sjcmathsoc/resources. This has to be the 2012-13 committee as Terrence Tsui is really form 4 then. So the previous 2012-13 committee list should've been 2011-12 instead? Isaac pls fix the formatting lmao ~ Toby -->
 <!--- From https://www.sjc.edu.hk/academic.php?content=result Jason Tsang took DSE in 2014-->
 
-| Jason Tsang              | President                     | 5F |
-| Ian Kwan                | Vice-president                | 5F |
-| Kwan Chun Hin                 | Vice-president                | 5F |
-| Yalsin Li                   | I.T Secretary           | 4F |
-| Wayne Leung                 | Internal Secretary            | 5F|
-| Terrence Tsui              | External Secretary            | 4F |
-| Edward Tong                    | Financial Secretary                  | 5F |
-| Andy Cheung              | Math Director          | 4F |
-| Eric Cheung                 | Math Director          | 4F |
+| President | Jason Tsang                                  | 5F |
+| Vice-president | Ian Kwan                               | 5F |
+| Vice-president | Kwan Chun Hin                                | 5F |
+| I.T Secretary| Yalsin Li                              | 4F |
+| Internal Secretary| Wayne Leung                             | 5F|
+| External Secretary| Terrence Tsui                          | 4F |
+| Financial Secretary | Edward Tong                                     | 5F |
+| Math Director| Andy Cheung                        | 4F |
+| Math Director| Eric Cheung                           | 4F |
 
 #### 2011-12
 
-<!---- https://liveoles.wixsite.com/sjcmathsoc/committee -->
+| Chairman                      | Thomas Fung                     | 5F                           |
+| Vice Chairman                 | James Chow                    | 5F                            |
+| Vice Chairman                 | Rudolf Sidhu                   | 5F                            |
+| Internal Secretary            | Waylon Chan                  | 5F                            |
+| External Secretary            | Aaron Cheung                  | 5F                            |
+| Financial Secretary           | Johnathan Wong                    | 5F                            |
+| IT Secretary         | Kim Lum                     | 5E                            |
+| Mathematics Director                 | Ian Kwan                   | 4F                            |
+| Mathematics Director                 | Terrence Tsui                   | 3E                            |
+| Studnet Coordinator                 | Wayne Leung                   | 4F                            |
 
-| Tsang Chi Cheuk               | President                     |
-| Kwan Yu Young                 | Vice president                |
-| Kwan Chun Hin                 | Vice president                |
-| Tong Po Hin                   | Financial Secretary           |
-| Tsui Ho Lung                  | Internal Secretary            |
-| Leung Siu Yeung               | External Secretary            |
-| Li Yik Sum                    | IT Secretary                  |
-| Cheung Man Hong               | Mathematics Director          |
-| Cheng Tak Ho                  | Mathematics Director          |
 
 #### 2010-11
 
@@ -207,6 +237,8 @@ Listed below are the executive committees of the mathematics society over the ye
 | Publication Secretary         | Derrick Fok                   | 6B                            |
 
 #### 2002-03
+
+#### 2001-02
 
 | Chairman                      | Ivan Ip                       | 6B                            |
 | Vice Chairman                 | Chan Ching Bun                | 6B                            |

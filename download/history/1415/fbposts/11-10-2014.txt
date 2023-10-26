@@ -1,0 +1,9 @@
+When you are using your calculator, do you realize that there is a red 'e' above the button 'ln'?  What is it?
+This letter e is actually a mathematical constant called the Euler's number - whose name comes from a great mathematician, Euler.  It is the base of natural logarithm, which is approximately equal to 2.718281828.  Note that e is not a rational number.  As you   continue to count the decimal digits you will find that the numbers behind are non-recurring.
+e=1/(0!)+1/(1!)+1/(2!)+1/(3!)+1/(4!)+...
+The constant e has only a few yet important usages in daily life.  The first usage is to calculate the decay (radioactivity) of chemical substances.  The equation of decay is shown below:
+y=x*e^(k*t)
+Where x is the amount of chemical substance when t (time)=0. y is the amount of substance left as t increases, and k is the constant of decay.
+Another usage is to calculate the continuous compound interest.  Using the equation:
+A=P*(e^(r*t)-1)
+we can find out the continuous compound interest A.  P is the deposit, r is the rate of interest and t is time (in terms of year).

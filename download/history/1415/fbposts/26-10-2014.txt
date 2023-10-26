@@ -1,0 +1,6 @@
+1.414213562373......  Whenever we are working on questions about trigonometry, square roots etc., this never-ending and non-recurring number keeps appearing on our calculators.
+The (principal) square root of 2, also known as the Pythagoras' constant, is equal to the length of the hypotenuse of a triangle with legs of length 1.  When multiplied by itself, the result is 2.
+Apart from letting us not to write down an infinitely long number when we got sin 45 degrees as an answer, do you know what practical usage does root 2 have?
+One usage in real life is the ratio of the A-series paper.  Take out a piece of A4 paper and measure its length and width.  You will find that the ratio is approximately 1 : root 2.  Fold it in half to get a piece of A5 paper.  Measure again.  You will find the same ratio.
+Why is it?  With some calculations, the ratio 1 : root 2 is actually the only ratio that allows the paper to keep the same ratio between length and width after being folded in half.  This ratio applies to all A-series paper.
+Like the previous constant we introduced, e, root 2 is also an irrational number.  Can you find a way to prove its irrational property?
