@@ -19,7 +19,6 @@ Contact us by sending an email to sjcmathssoc@gmail.com
 * [Logo designs](/logo-designs)
 * [History](/history)
 * [Past weekly questions](/questions)
-* [Past mathematics jorunals](/journals)
 
 ## Latest News 
 
