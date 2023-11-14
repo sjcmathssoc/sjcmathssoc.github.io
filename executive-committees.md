@@ -200,6 +200,15 @@ Listed below are the executive committees of the mathematics society over the ye
 
 #### 2008-09
 
+| President                      | Wong Sze Wai                    | 6B                            |
+| Vice President                 | Wun Hon Yip                    | 6B                            |
+| Vice President                 | Kung Wui Tim                  | 6B                            |
+| External Secretary            | Jack Kwan                    | 6B                            |
+| Internal Secretary            | Hardy Ho                  | 6B                            |
+| Financial Secretary           | Jacky Lau                    | 6B                            |
+| Publication Secretary         | Arthur James Chan                     | 6B                            |
+| Student Advisor                | Gavin Cheung                   | 6B                            |
+
 #### 2007-08
 
 | President                     | Louis Tung                    | 6B                            |
@@ -213,8 +222,18 @@ Listed below are the executive committees of the mathematics society over the ye
 | Student Advisor               | Joseph Tse                    | 6B                            |
 
 #### 2006-07
+| President                     | Gavin Cheung                   | 4E                            |
+| Vice President                | Michael Wun                     | 4E                            |
+| Vice President                | Ken Wong                   | 4E                            |
+| Internal Secretary            | Arthur Tse                    | 4E                            |
+| External Secretary            | Johnny Kung                      | 4E                            |
+| Financial Secretary           | Lack Kwann                 | 4E                           |
+| Publication Secretary         | Winton So                 | 4C                            |
+| Student Advisor                | Himson Tam                   | 6B                            |
 
 #### 2005-06
+
+Missing
 
 #### 2004-05
 
@@ -237,6 +256,15 @@ Listed below are the executive committees of the mathematics society over the ye
 | Publication Secretary         | Derrick Fok                   | 6B                            |
 
 #### 2002-03
+
+| Chairman                      | Ng Siu Hin, Martin                   | 6B                            |
+| Vice Chairman                 | Cheng Ho Man, Simon                     | 6B                            |
+| Vice Chairman                 | Chow Chi Wai, Kelvin                   | 6B                            |
+| Internal Secretary            | Liu Wing Kam, Victor                    | 6B                            |
+| Internal Secretary            | Wong Yze Ong, Mark                    | 6B                            |
+| External Secretary            | Cheng Wing Kin, Henry                 | 6B                            |
+| External Secretary            | Wong Sze Kin, Timothy                | 6B                            |
+| Financial Secretary           | Leung Ho Kai                       | 6B                            |
 
 #### 2001-02
 
