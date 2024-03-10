@@ -222,14 +222,15 @@ Listed below are the executive committees of the mathematics society over the ye
 | Student Advisor               | Joseph Tse                    | 6B                            |
 
 #### 2006-07
-| President                     | Gavin Cheung                   | 4E                            |
-| Vice President                | Michael Wun                     | 4E                            |
-| Vice President                | Ken Wong                   | 4E                            |
-| Internal Secretary            | Arthur Tse                    | 4E                            |
-| External Secretary            | Johnny Kung                      | 4E                            |
-| Financial Secretary           | Lack Kwann                 | 4E                           |
+
+| President                     | Gavin Cheung              | 4E                            |
+| Vice President                | Michael Wun               | 4E                            |
+| Vice President                | Ken Wong                  | 4E                            |
+| Internal Secretary            | Arthur Tse                | 4E                            |
+| External Secretary            | Johnny Kung               | 4E                            |
+| Financial Secretary           | Lack Kwann                | 4E                            |
 | Publication Secretary         | Winton So                 | 4C                            |
-| Student Advisor                | Himson Tam                   | 6B                            |
+| Student Advisor               | Himson Tam                | 6B                            |
 
 #### 2005-06
 
