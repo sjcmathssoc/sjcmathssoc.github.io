@@ -18,9 +18,13 @@ Contact us by sending an email to sjcmathssoc@gmail.com
 * [Executive committees](/executive-committees)
 * [Logo designs](/logo-designs)
 * [History](/history)
+* [Past events](/events)
+* [Past publications](/publications)
 * [Past weekly questions](/questions)
 
 ## Latest News 
+
+**2024 Mar**: We've created pages for our [past events](/events) and [publications](/publications).
 
 **2023 Oct**: We've updated the list of our [executive committees](/executive-committees).
 
