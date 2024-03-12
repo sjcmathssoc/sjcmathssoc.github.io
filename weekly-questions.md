@@ -7,7 +7,7 @@ exclude: true
 
 Here's the questions and solutions to previous weekly questions
 
-#### 2023-24
+#### 2023–24
 
 [Week 9]({{site.url}}\download\Solutions\2324\Weekly_Questions_Week_9.pdf)
 
@@ -27,11 +27,11 @@ Here's the questions and solutions to previous weekly questions
 
 [Week 1]({{site.url}}\download\Solutions\2324\Weekly_Questions_Week_1.pdf)
 
-#### 2020-21
+#### 2020–21
 
 [4-11-2020]({{site.url}}\download\Solutions\2021\4-11-2020.pdf)
 
-#### 2019-20
+#### 2019–20
 
 [1-12-2019]({{site.url}}\download\Solutions\1920\1-12-2019.pdf)
 

@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 Listed below are the executive committees of the mathematics society over the years. The list is sadly incomplete.
-#### 2023-24
+#### 2023–24
 
 | President                     | Jamie Ng                      | 5F                            |
 | Vice President                | Corwin Cheung                 | 4F                            |
@@ -21,7 +21,7 @@ Listed below are the executive committees of the mathematics society over the ye
 | Maths Designer                | Michael Tang                  | 4F                            |
 | Maths Designer                | Alex Lam                      | 5F                            |
 
-#### 2022-23
+#### 2022–23
 
 | President                     | Li Chun Lok Isaac             | 5F                            |
 | Vice President                | Li Tsz Him                    | 5F                            |
@@ -35,7 +35,7 @@ Listed below are the executive committees of the mathematics society over the ye
 | Student Coordinator           | Sit Pok Shun Jaden            | 5F                            |
 
 
-#### 2021-22
+#### 2021–22
 
 | President                     | Li Chun Lok Isaac             | 4F                            |
 | Vice President                | Sit Pok Shun Jaden            | 4F                            |
@@ -45,7 +45,7 @@ Listed below are the executive committees of the mathematics society over the ye
 | Maths Designer                | Fok Pak Yin                   | 4E                            |
 | Student Coordinator           | Chiu Tsz Hei                  | 3B                            |
 
-#### 2020-21
+#### 2020–21
 
 | President                     | Cheng Cheuk Lam Justin        | 5F                            |
 | Vice President                | Chan Leong Ip                 | 5F                            |
@@ -56,7 +56,7 @@ Listed below are the executive committees of the mathematics society over the ye
 | Maths Designer                | Li Chun Lok Isaac             | 3E                            |
 | Student Coordinator           | Jason Ho                      | 4E                            |
 
-#### 2019-20
+#### 2019–20
 
 | President                     | Toby Lam                      | 5F                            |
 | Vice president                | Law Chak Nam                  | 5E                            |
@@ -68,7 +68,7 @@ Listed below are the executive committees of the mathematics society over the ye
 | External Secretary            | Jason Ho                      | 3A                            |
 | External Secretary            | Kwok Kai Yiu                  | 5D                            |
 
-#### 2018-19
+#### 2018–19
 
 | President                     | Steven Zhao                   | 5F                            |
 | Vice-president                | Brencis Yu                    | 5F                            |
@@ -78,7 +78,7 @@ Listed below are the executive committees of the mathematics society over the ye
 | Financial Secretary           | Adrian Li                     | 5F                            |
 | Club Advisor                  | Toby Lam                      | 4F                            |
 
-#### 2017-18
+#### 2017–18
 
 <!-- Adrian Li is the president, unsure about the rest ~ Toby --> 
 
@@ -90,11 +90,11 @@ Listed below are the executive committees of the mathematics society over the ye
 | General Secretary                | Michael Chan                   | 
 | Club Advisor                  | Toby Lam                      | 
 
-#### 2016-17
+#### 2016–17
 
 | Chan Chun Wing|
 
-#### 2015-16
+#### 2015–16
 
 | Chairman                     | Yuen Ka Fai Kevin                | 
 | Vice Chairman               | Lau Tsz Ping Jeffrey                    | 
@@ -110,7 +110,7 @@ Listed below are the executive committees of the mathematics society over the ye
 | Mathematics Director                  | So Yiu Hei                     | 
 
 
-#### 2014-15
+#### 2014–15
 
 | President                     | Chadwick Wong               | 5E |
 | Vice-president                | Paul Lin                    | 5E |
@@ -126,7 +126,7 @@ Listed below are the executive committees of the mathematics society over the ye
 | Mathematics Director                  | Peter Lau                     | 4E |
 
 
-#### 2013-14
+#### 2013–14
 
 <!--- From GWJ -->
 
@@ -144,9 +144,9 @@ Listed below are the executive committees of the mathematics society over the ye
 | Mathematics Director                  | Wong Cheuk Yin                     | 
 
 
-#### 2012-13
+#### 2012–13
 
-<!--- This is from the powerpoint here https://liveoles.wixsite.com/sjcmathsoc/resources. This has to be the 2012-13 committee as Terrence Tsui is really form 4 then. So the previous 2012-13 committee list should've been 2011-12 instead? Isaac pls fix the formatting lmao ~ Toby -->
+<!--- This is from the powerpoint here https://liveoles.wixsite.com/sjcmathsoc/resources. This has to be the 2012–13 committee as Terrence Tsui is really form 4 then. So the previous 2012–13 committee list should've been 2011–12 instead? Isaac pls fix the formatting lmao ~ Toby -->
 <!--- From https://www.sjc.edu.hk/academic.php?content=result Jason Tsang took DSE in 2014-->
 
 | President | Jason Tsang                                  | 5F |
@@ -159,7 +159,7 @@ Listed below are the executive committees of the mathematics society over the ye
 | Math Director| Andy Cheung                        | 4F |
 | Math Director| Eric Cheung                           | 4F |
 
-#### 2011-12
+#### 2011–12
 
 | Chairman                      | Thomas Fung                     | 5F                           |
 | Vice Chairman                 | James Chow                    | 5F                            |
@@ -173,7 +173,7 @@ Listed below are the executive committees of the mathematics society over the ye
 | Studnet Coordinator                 | Wayne Leung                   | 4F                            |
 
 
-#### 2010-11
+#### 2010–11
 
 | President                     | Mak Hugo Wai Leung            | 6B                            | hugomak93@hotmail.com         |
 | Vice President                | Ng Wing Fung Wingo            | 6B                            | ng_wingo@hotmail.com          |
@@ -187,7 +187,7 @@ Listed below are the executive committees of the mathematics society over the ye
 | Mathematics Director          | Eddy Poon Wui Cheung          | 5G                            | y001536@hotmail.com           |
 | Club Coordinator              | Thomas Fung Ho Kwan           | 4F                            | thomas.fung@hotmail.com       |
 
-#### 2009-10
+#### 2009–10
 
 | Chairman                      | Alvin Ng                      | 6B                            |
 | Vice Chairman                 | Kevin Lai                     | 6B                            |
@@ -198,7 +198,7 @@ Listed below are the executive committees of the mathematics society over the ye
 | Publication Secretary         | Sunny Lai                     | 6C                            |
 | Math Director                 | Ronald Choy                   | 6C                            |
 
-#### 2008-09
+#### 2008–09
 
 | President                      | Wong Sze Wai                    | 6B                            |
 | Vice President                 | Wun Hon Yip                    | 6B                            |
@@ -209,7 +209,7 @@ Listed below are the executive committees of the mathematics society over the ye
 | Publication Secretary         | Arthur James Chan                     | 6B                            |
 | Student Advisor                | Gavin Cheung                   | 6B                            |
 
-#### 2007-08
+#### 2007–08
 
 | President                     | Louis Tung                    | 6B                            |
 | Vice President                | John Lam                      | 6C                            |
@@ -221,7 +221,7 @@ Listed below are the executive committees of the mathematics society over the ye
 | Math Director                 | Trevor Wong                   | 6B                            |
 | Student Advisor               | Joseph Tse                    | 6B                            |
 
-#### 2006-07
+#### 2006–07
 
 | President                     | Gavin Cheung              | 4E                            |
 | Vice President                | Michael Wun               | 4E                            |
@@ -232,11 +232,11 @@ Listed below are the executive committees of the mathematics society over the ye
 | Publication Secretary         | Winton So                 | 4C                            |
 | Student Advisor               | Himson Tam                | 6B                            |
 
-#### 2005-06
+#### 2005–06
 
 Missing
 
-#### 2004-05
+#### 2004–05
 
 | Chairman                      | Ray Cheng                     | 6B                            |
 | Vice Chairman                 | Joseph Wong                   | 6B                            |
@@ -246,7 +246,7 @@ Missing
 | Financial Secretary           | Chow Chit Kwong               | 6B                            |
 | Publication Secretary         | Sam Wong                      | 3E                            |
 
-#### 2003-04
+#### 2003–04
 
 | Chairman                      | Tommy Wong                    | 6B                            |
 | Vice Chairman                 | Jason Lau                     | 6B                            |
@@ -256,7 +256,7 @@ Missing
 | Financial Secretary           | Ray Mak                       | 6C                            |
 | Publication Secretary         | Derrick Fok                   | 6B                            |
 
-#### 2002-03
+#### 2002–03
 
 | Chairman                      | Ng Siu Hin, Martin                   | 6B                            |
 | Vice Chairman                 | Cheng Ho Man, Simon                     | 6B                            |
@@ -267,7 +267,7 @@ Missing
 | External Secretary            | Wong Sze Kin, Timothy                | 6B                            |
 | Financial Secretary           | Leung Ho Kai                       | 6B                            |
 
-#### 2001-02
+#### 2001–02
 
 | Chairman                      | Ivan Ip                       | 6B                            |
 | Vice Chairman                 | Chan Ching Bun                | 6B                            |
