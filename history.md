@@ -36,8 +36,8 @@ GnW Magazines:
 Facebook:
 
 * [2018-current](https://www.facebook.com/sjcmathssoc/)
-* [2012–14](https://www.facebook.com/SJCMathematicsSociety20122013/)
 * [2014–15](https://www.facebook.com/sjcmathsoc201415/)
+* [2012–14](https://www.facebook.com/SJCMathematicsSociety20122013/)
 
 Website:
 

@@ -9,7 +9,7 @@ redirect_from:
 
 We're the St. Joseph's College Mathematics Society! Welcome!
 
-You could find us on [Instagram](https://www.instagram.com/sjcmathssoc/) or [Facebook](https://www.facebook.com/sjcmathssoc)
+You could find us on [Instagram](https://www.instagram.com/sjcmathssoc/) or [Facebook](https://www.facebook.com/sjcmathssoc).
 
 Contact us by sending an email to sjcmathssoc@gmail.com
 
@@ -29,3 +29,5 @@ Contact us by sending an email to sjcmathssoc@gmail.com
 **2023 Oct**: We've updated the list of our [executive committees](/executive-committees).
 
 **2020 Dec**: We've released a [reference book](/geometry-reference) for geometry identities in HKDSE maths.
+
+**2020 Nov**: This website was created.
