@@ -6,7 +6,7 @@ exclude: true
 
 We run a variety of events. Most notable of which are our AGM, Pi day pizza party + football match and open day. Below are some posters we've made for these events.
 
-## 22–23 
+## 2022–23 
 
 <style>
 .grid-container {

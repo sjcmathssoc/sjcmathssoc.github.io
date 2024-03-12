@@ -8,14 +8,14 @@ We have released various mathematics journals with articles written by members o
 
 ## Journals
 
-* [22–23 Journal](/download/pubs/2223-journal.pdf)
-* [20–21 Pi Day Journal](/download/pubs/2021-pi.pdf)
-* [18–19 Journal](/download/pubs/1819-journal.pdf)
+* [2022–23 Journal](/download/pubs/2223-journal.pdf)
+* [2020–21 Pi Day Journal](/download/pubs/2021-pi.pdf)
+* [2018–19 Journal](/download/pubs/1819-journal.pdf)
 
 ## Others
 
-* [22–23 Trignometry Reference](/download/pubs/2223-piday-trig.pdf)
-* [20–21 Geometry Reference](/download/geometry_references.pdf) 
+* [2022–23 Trignometry Reference](/download/pubs/2223-piday-trig.pdf)
+* [2020–21 Geometry Reference](/download/geometry_references.pdf) 
 
 <style>
 .grid-container {
