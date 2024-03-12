@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  "Eexecutive committees"
+title:  "Executive committees"
 permalink: /executive-committees
 exclude: true
 redirect_from:
