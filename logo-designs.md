@@ -8,7 +8,7 @@ redirect_from:
 exclude: true
 ---
 
-The new logo was designed during 2017–18 by Darin Chau, adapting the previous logo's design. It was then re-traced by Isaac Li during 2018–19.
+The current logo was designed during 2017–18 by Darin Chau, adapting the previous logo's design. It was then re-traced by Isaac Li during 2018–19.
 
 Current Logo Design:
 
