@@ -7,11 +7,17 @@ redirect_from:
 exclude: true
 ---
 
-We were founded in 1991.
+**2012-13:** We held our first Pi Day celebration.
+
+**2003-04:** We held our first Joint School Mathematics Camp.
+
+**1992-93:** We released our first Mathematics Journal.
+
+**1991-92:** We were founded.
 
 ## Historical Evidence
 
-Sadly, much information about mathematics society's history has been lost in time. We hope that we will be able to keep a much better record of the operations of the mathematics society. Below are pages where one can learn more about our history.
+Sadly, much information about mathematics society's history has been lost in time. We hope that we will be able to keep a much better record of the operations of the mathematics society. Below are some pages where one can learn more about our history.
 
 GnW Magazines:
 
