@@ -22,7 +22,7 @@ GnW Magazines:
 * [2013–14](/download/history/1314/green_and_white_magazine-1314.pdf)
 * [2012–13](/download/history/1213/green_and_white_magazine-1213.pdf)
 * [2011–12](/download/history/1112/green_and_white_magazine-1112.pdf)
-* 2010–11: Missing
+* [2010–11](/download/history/1011/green_and_white_magazine-1011.pdf)
 * [2009–10](/download/history/0910/green_and_white_magazine-0910.pdf)
 * [2008–09](/download/history/0809/green_and_white_magazine-0809.pdf)
 * [2007–08](/download/history/0708/green_and_white_magazine-0708.pdf)
@@ -39,7 +39,7 @@ GnW Magazines:
 * [1996–97](/download/history/9697/green_and_white_magazine-9697.pdf)
 * [1995–96](/download/history/9596/green_and_white_magazine-9596.pdf)
 * [1994–95](/download/history/9495/green_and_white_magazine-9495.pdf)
-* 1993–94: Missing
+* [1993–94](/download/history/9394/green_and_white_magazine-9394.pdf)
 * [1992–93](/download/history/9293/green_and_white_magazine-9293.pdf)
 * [1991–92](/download/history/9192/green_and_white_magazine-9192.pdf) 
 
