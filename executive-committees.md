@@ -234,7 +234,18 @@ Listed below are the executive committees of the mathematics society over the ye
 
 #### 2005–06
 
-Missing
+| Position                     | Name                         | Class                         |
+|------------------------------|------------------------------|-------------------------------|
+| President                    | Andrew Wong                  | L.6B                          |
+| Vice President               | Kevin Chu                    | L.6B                          |
+| Vice President               | Joseph Tse                   | F.4E                          |
+| Internal Secretary           | Raymond Lau                  | L.6B                          |
+| External Secretary           | Patricio Lau                 | L.6B                          |
+| Financial Secretary          | Eric Shiu                    | L.6B                          |
+| Publication Secretary        | Vincent Chau                 | L.6B                          |
+| Math Director                | Jonathan Wong                | L.6B                          |
+| Math Director                | Sam Wong                     | F.4E                          |
+
 
 #### 2004–05
 
@@ -276,6 +287,29 @@ Missing
 | External Secretary            | Peter Ng                      | 6B                            |
 | Financial Secretary           | Matsuta Ng                    | 6B                            |
 | Honourable Designer           | Marcus Lam                    | 6C                            |
+
+#### 1999–2000
+
+| Position                     | Name                         | Class                         |
+|------------------------------|------------------------------|-------------------------------|
+| Chairman                     | Lau Wing Hung, Stephen       | L.6B                          |
+| Vice-chairman                | Chan Sau Yan, Thomas         | L.6B                          |
+| Vice-chairman                | Yau Chi Hong, Samuel         | L.6B                          |
+| Financial Secretary          | Mak Ho Yin, Martin           | L.6B                          |
+| Technical Support            | Mak Pak Kei, Leo             | L.6B                          |
+| Public Relations Officer     | Ip Chi Ho, Ivan              | 4E                            |
+
+#### 1989–99
+
+| Position                     | Name                         | Class                         |
+|------------------------------|------------------------------|-------------------------------|
+| Chairman                     | Richard Lau                  | 6B                            |
+| Vice-Chairman                | Yan Hang Fai                 | 6B                            |
+| Vice-Chairman                | Alexander Chan               | 6B                            |
+| Internal Secretary           | Andrew Chan                  | 6B                            |
+| External Secretary           | Chan Wai Chi                 | 6B                            |
+| Treasurer                    | Bernard Lee                  | 6B                            |
+
 
 #### Sources
 

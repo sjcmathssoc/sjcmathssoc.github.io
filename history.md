@@ -27,11 +27,21 @@ GnW Magazines:
 * [2008–09](/download/history/0809/green_and_white_magazine-0809.pdf)
 * [2007–08](/download/history/0708/green_and_white_magazine-0708.pdf)
 * [2006–07](/download/history/0607/green_and_white_magazine-0607.pdf)
-* 2005–06: Missing
+* [2005–06](/download/history/0506/green_and_white_magazine-0506.pdf)
 * [2004–05](/download/history/0405/green_and_white_magazine-0405.pdf)
 * [2003–04](/download/history/0304/green_and_white_magazine-0304.pdf)
 * [2002–03](/download/history/0203/green_and_white_magazine-0203.pdf)
-* [2001–02](/download/history/0102/2002_GnW_Magazine.jpg)
+* [2001–02](/download/history/0102/green_and_white_magazine-0102.pdf)
+* [2000-01](/download/history/0001/green_and_white_magazine-0001.pdf)
+* [1999–00](/download/history/9900/green_and_white_magazine-9900.pdf)
+* [1998–99](/download/history/9899/green_and_white_magazine-9899.pdf)
+* [1997–98](/download/history/9798/green_and_white_magazine-9798.pdf)
+* [1996–97](/download/history/9697/green_and_white_magazine-9697.pdf)
+* [1995–96](/download/history/9596/green_and_white_magazine-9596.pdf)
+* [1994–95](/download/history/9495/green_and_white_magazine-9495.pdf)
+* 1993–94: Missing
+* [1992–93](/download/history/9293/green_and_white_magazine-9293.pdf)
+* [1991–92](/download/history/9192/green_and_white_magazine-9192.pdf) 
 
 Facebook:
 

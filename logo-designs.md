@@ -22,11 +22,9 @@ Compact version:
 
 <img src="{{site.url}}/download/Logos/Old.jpg"  height="225"> 
 
-
 [2010–11 Logo Design](https://web.archive.org/web/20120331071748/http://www.sjcsu.com/eca.html):
 
 <img src="{{site.url}}/download/Logos/2010-11.jpg"  height="200"> 
-
 
 [2003–04 Logo Design](https://web.archive.org/web/20030921071200/http://sjc.edu.hk/~mathsoc/):
 
