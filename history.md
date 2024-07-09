@@ -19,7 +19,7 @@ exclude: true
 
 Sadly, much information about mathematics society's history has been lost in time. We hope that we will be able to keep a much better record of the operations of the mathematics society. Below are some pages where one can learn more about our history.
 
-GnW Magazines:
+Green and White Magazines:
 
 * [2017–18](/download/history/1718/green_and_white_magazine-1718.pdf)
 * 2016–17: Missing
@@ -55,7 +55,7 @@ Facebook:
 * [2014–15](https://www.facebook.com/sjcmathsoc201415/)
 * [2012–14](https://www.facebook.com/SJCMathematicsSociety20122013/)
 
-Website:
+Wix Website:
 
 * [2012–13](https://liveoles.wixsite.com/sjcmathsoc)
 
