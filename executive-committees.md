@@ -104,9 +104,11 @@ Listed below are the executive committees of the mathematics society over the ye
 | General Secretary                | Michael Chan                   | 
 | Club Advisor                  | Toby Lam                      | 
 
-#### 2016–17
+#### 2016–17 
 
-| Chan Chun Wing|
+| Position                     | Name                         |
+|------------------------------|------------------------------|
+| Chairman                     | Chan Chun Wing               |
 
 #### 2015–16
 
@@ -198,19 +200,19 @@ Listed below are the executive committees of the mathematics society over the ye
 
 #### 2010–11
 
-| Position                     | Name                         | Class                         | Email |
-|------------------------------|------------------------------|-------------------------------|-----|
-| President                     | Mak Hugo Wai Leung            | 6B                            | hugomak93@hotmail.com         |
-| Vice President                | Ng Wing Fung Wingo            | 6B                            | ng_wingo@hotmail.com          |
-| Vice President                | Martin Sham Che Wai           | 5G                            | martinsham1994@hotmail.com    |
-| Internal Secretary            | Tang Ian Chiyan               | 6B                            | iantang1993@hotmail.com       |
-| External Secretary            | Ming Ho Hin Alan              | 6B                            | aminga93@hotmail.com          |
-| Financial Secretary           | Leung Yik Kan Chester         | 5G                            | chesterleung@live.hk          |
-| General Secretary             | Kwong Sze Hong                | 5G                            | kg_hong@hotmail.com           |
-| IT Secretary                  | Chan Wai Yan Sunny            | 6C                            | sunnychancwys@hotmail.com     |
-| IT Secretary                  | Alex Wong Yat Hin             | 5G                            | crazywonghk@hotmail.com       |
-| Mathematics Director          | Eddy Poon Wui Cheung          | 5G                            | y001536@hotmail.com           |
-| Club Coordinator              | Thomas Fung Ho Kwan           | 4F                            | thomas.fung@hotmail.com       |
+| Position                     | Name                         | Class                         | 
+|------------------------------|------------------------------|-------------------------------|
+| President                     | Mak Hugo Wai Leung            | 6B                            | 
+| Vice President                | Ng Wing Fung Wingo            | 6B                            | 
+| Vice President                | Martin Sham Che Wai           | 5G                            | 
+| Internal Secretary            | Tang Ian Chiyan               | 6B                            | 
+| External Secretary            | Ming Ho Hin Alan              | 6B                            | 
+| Financial Secretary           | Leung Yik Kan Chester         | 5G                            | 
+| General Secretary             | Kwong Sze Hong                | 5G                            | 
+| IT Secretary                  | Chan Wai Yan Sunny            | 6C                            | 
+| IT Secretary                  | Alex Wong Yat Hin             | 5G                            | 
+| Mathematics Director          | Eddy Poon Wui Cheung          | 5G                            | 
+| Club Coordinator              | Thomas Fung Ho Kwan           | 4F                            | 
 
 #### 2009–10
 
@@ -328,6 +330,11 @@ Listed below are the executive committees of the mathematics society over the ye
 | Financial Secretary           | Matsuta Ng                    | 6B                            |
 | Honourable Designer           | Marcus Lam                    | 6C                            |
 
+
+#### 2000-01
+
+To be filled in
+
 #### 1999–2000
 
 | Position                     | Name                         | Class                         |
@@ -339,7 +346,7 @@ Listed below are the executive committees of the mathematics society over the ye
 | Technical Support            | Mak Pak Kei, Leo             | L.6B                          |
 | Public Relations Officer     | Ip Chi Ho, Ivan              | 4E                            |
 
-#### 1989–99
+#### 1998-99
 
 | Position                     | Name                         | Class                         |
 |------------------------------|------------------------------|-------------------------------|
@@ -349,6 +356,46 @@ Listed below are the executive committees of the mathematics society over the ye
 | Internal Secretary           | Andrew Chan                  | 6B                            |
 | External Secretary           | Chan Wai Chi                 | 6B                            |
 | Treasurer                    | Bernard Lee                  | 6B                            |
+
+#### 1997-98
+
+| Position                     | Name                         | Class                         |
+|------------------------------|------------------------------|-------------------------------|
+| Chairman                     | Thomas Yip                   | 6B                            |
+| Vice-Chairman                | Gordon Ho                    | 6B                            |
+| Vice-Chairman                | Allen Chung                  | 6B                            |
+| Internal Secretary           | Sammy Mak                    | 6B                            |
+| External Secretary           | Eric Cheung                  | 6B                            |
+| Treasurer                    | Victor Tam                   | 6B                            |
+
+#### 1996-97
+
+| Position                     | Name                         | Class                         |
+|------------------------------|------------------------------|-------------------------------|
+| Chairman                     | Benjamin Lau                 | 6B                            |
+| Vice-Chairman                | Jeffrey Chau                 | 6B                            |
+| Vice-Chairman                | Raymond Wong                 | 6B                            |
+| Chief Secretary              | Michael Chim                 | 6C                            |
+| Internal Secretary           | Johnny Wong                  | 6C                            |
+| External Secretary           | Daniel Ng                    | 6B                            |
+| Treasurer                    | Ambrose Chan                 | 6A                            |
+| Designer                     | Simon Lam                    | 6B                            |
+| Designer                     | Chappy Kwan                  | 6B                            |
+| Chief Tutor                  | Thomas Lo                    | 6B                            |
+
+#### 1995-96
+
+| Position                     | Name                         | Class                         |
+|------------------------------|------------------------------|-------------------------------|
+| President                    | Thomas Tung                  | 6B                            |
+| Vice-President               | John Leung                   | 6B                            |
+| Vice-President               | Alan Yuen                    | 6B                            |
+| Internal Secretary           | Kelvin Chan                  | 6B                            |
+| Internal Secretary           | Charlie Wong                 | 6B                            |
+| External Secretary           | Johnny Chow                  | 6B                            |
+| Treasurer                    | Kelvin Su                    | 6B                            |
+| Academic Secretary           | Alan Chan                    | 6B                            |
+| Academic Secretary           | Gabriel Ho                   | 6B                            |
 
 
 #### Sources

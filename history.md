@@ -22,7 +22,7 @@ Sadly, much information about mathematics society's history has been lost in tim
 Green and White Magazines:
 
 * [2017–18](/download/history/1718/green_and_white_magazine-1718.pdf)
-* 2016–17: Missing
+* [2016–17](/download/history/1617/green_and_white_magazine-1617.pdf)
 * [2015–16](/download/history/1516/green_and_white_magazine-1516.pdf)
 * [2014–15](/download/history/1415/green_and_white_magazine-1415.pdf)
 * [2013–14](/download/history/1314/green_and_white_magazine-1314.pdf)
