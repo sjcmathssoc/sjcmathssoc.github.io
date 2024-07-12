@@ -7,8 +7,14 @@ redirect_from:
     - /2020/11/15/past-exeuctive-committees
 ---
 
+<style>
+    h2 {
+        font-size: 1.5em !important;
+    }
+</style>
+
 Listed below are the executive committees of the mathematics society over the years. The list is sadly incomplete.
-#### 2023–24
+## 2023–24
 
 | Position                     | Name                         | Class                         |
 |------------------------------|------------------------------|-------------------------------|
@@ -23,7 +29,7 @@ Listed below are the executive committees of the mathematics society over the ye
 | Maths Designer                | Michael Tang                  | 4F                            |
 | Maths Designer                | Alex Lam                      | 5F                            |
 
-#### 2022–23
+## 2022–23
 
 | Position                     | Name                         | Class                         |
 |------------------------------|------------------------------|-------------------------------|
@@ -38,7 +44,7 @@ Listed below are the executive committees of the mathematics society over the ye
 | External Secretary            | Au-Yeung Hak Shun             | 5E                            |
 | Student Coordinator           | Sit Pok Shun Jaden            | 5F                            |
 
-#### 2021–22
+## 2021–22
 
 | Position                     | Name                         | Class                         |
 |------------------------------|------------------------------|-------------------------------|
@@ -50,7 +56,7 @@ Listed below are the executive committees of the mathematics society over the ye
 | Maths Designer                | Fok Pak Yin                   | 4E                            |
 | Student Coordinator           | Chiu Tsz Hei                  | 3B                            |
 
-#### 2020–21
+## 2020–21
 
 | Position                     | Name                         | Class                         |
 |------------------------------|------------------------------|-------------------------------|
@@ -63,10 +69,9 @@ Listed below are the executive committees of the mathematics society over the ye
 | Maths Designer                | Li Chun Lok Isaac             | 3E                            |
 | Student Coordinator           | Jason Ho                      | 4E                            |
 
-#### 2019–20
+## 2019–20
 
 | Position                     | Name                         | Class                         |
-|------------------------------|------------------------------|-------------------------------|
 |------------------------------|------------------------------|-------------------------------|
 | President                     | Toby Lam                      | 5F                            |
 | Vice president                | Law Chak Nam                  | 5E                            |
@@ -78,7 +83,7 @@ Listed below are the executive committees of the mathematics society over the ye
 | External Secretary            | Jason Ho                      | 3A                            |
 | External Secretary            | Kwok Kai Yiu                  | 5D                            |
 
-#### 2018–19
+## 2018–19
 
 | Position                     | Name                         | Class                         |
 |------------------------------|------------------------------|-------------------------------|
@@ -90,7 +95,7 @@ Listed below are the executive committees of the mathematics society over the ye
 | Financial Secretary           | Adrian Li                     | 5F                            |
 | Club Advisor                  | Toby Lam                      | 4F                            |
 
-#### 2017–18
+## 2017–18
 
 <!-- Adrian Li is the president, unsure about the rest ~ Toby --> 
 
@@ -104,13 +109,13 @@ Listed below are the executive committees of the mathematics society over the ye
 | General Secretary                | Michael Chan                   | 
 | Club Advisor                  | Toby Lam                      | 
 
-#### 2016–17 
+## 2016–17 
 
 | Position                     | Name                         |
 |------------------------------|------------------------------|
 | Chairman                     | Chan Chun Wing               |
 
-#### 2015–16
+## 2015–16
 
 | Position                     | Name                         |
 |------------------------------|------------------------------|
@@ -128,7 +133,7 @@ Listed below are the executive committees of the mathematics society over the ye
 | Mathematics Director                  | So Yiu Hei                     | 
 
 
-#### 2014–15
+## 2014–15
 
 | Position                     | Name                         | Class                         |
 |------------------------------|------------------------------|-------------------------------|
@@ -146,7 +151,7 @@ Listed below are the executive committees of the mathematics society over the ye
 | Mathematics Director                  | Peter Lau                     | 4E |
 
 
-#### 2013–14
+## 2013–14
 <!--- From GWJ -->
 
 | Position                     | Name                         |
@@ -165,7 +170,7 @@ Listed below are the executive committees of the mathematics society over the ye
 | Mathematics Director                  | Wong Cheuk Yin                     | 
 
 
-#### 2012–13
+## 2012–13
 
 <!--- This is from the powerpoint here https://liveoles.wixsite.com/sjcmathsoc/resources. This has to be the 2012–13 committee as Terrence Tsui is really form 4 then. So the previous 2012–13 committee list should've been 2011–12 instead? Isaac pls fix the formatting lmao ~ Toby -->
 <!--- From https://www.sjc.edu.hk/academic.php?content=result Jason Tsang took DSE in 2014-->
@@ -182,7 +187,7 @@ Listed below are the executive committees of the mathematics society over the ye
 | Math Director| Andy Cheung                        | 4F |
 | Math Director| Eric Cheung                           | 4F |
 
-#### 2011–12
+## 2011–12
 
 | Position                     | Name                         | Class                         |
 |------------------------------|------------------------------|-------------------------------|
@@ -198,7 +203,7 @@ Listed below are the executive committees of the mathematics society over the ye
 | Studnet Coordinator                 | Wayne Leung                   | 4F                            |
 
 
-#### 2010–11
+## 2010–11
 
 | Position                     | Name                         | Class                         | 
 |------------------------------|------------------------------|-------------------------------|
@@ -214,7 +219,7 @@ Listed below are the executive committees of the mathematics society over the ye
 | Mathematics Director          | Eddy Poon Wui Cheung          | 5G                            | 
 | Club Coordinator              | Thomas Fung Ho Kwan           | 4F                            | 
 
-#### 2009–10
+## 2009–10
 
 | Position                     | Name                         | Class                         |
 |------------------------------|------------------------------|-------------------------------|
@@ -227,7 +232,7 @@ Listed below are the executive committees of the mathematics society over the ye
 | Publication Secretary         | Sunny Lai                     | 6C                            |
 | Math Director                 | Ronald Choy                   | 6C                            |
 
-#### 2008–09
+## 2008–09
 
 | Position                     | Name                         | Class                         |
 |------------------------------|------------------------------|-------------------------------|
@@ -240,7 +245,7 @@ Listed below are the executive committees of the mathematics society over the ye
 | Publication Secretary         | Arthur James Chan                     | 6B                            |
 | Student Advisor                | Gavin Cheung                   | 6B                            |
 
-#### 2007–08
+## 2007–08
 
 | Position                     | Name                         | Class                         |
 |------------------------------|------------------------------|-------------------------------|
@@ -254,7 +259,7 @@ Listed below are the executive committees of the mathematics society over the ye
 | Math Director                 | Trevor Wong                   | 6B                            |
 | Student Advisor               | Joseph Tse                    | 6B                            |
 
-#### 2006–07
+## 2006–07
 
 | Position                     | Name                         | Class                         |
 |------------------------------|------------------------------|-------------------------------|
@@ -267,7 +272,7 @@ Listed below are the executive committees of the mathematics society over the ye
 | Publication Secretary         | Winton So                 | 4C                            |
 | Student Advisor               | Himson Tam                | 6B                            |
 
-#### 2005–06
+## 2005–06
 
 | Position                     | Name                         | Class                         |
 |------------------------------|------------------------------|-------------------------------|
@@ -281,7 +286,7 @@ Listed below are the executive committees of the mathematics society over the ye
 | Math Director                | Jonathan Wong                | L.6B                          |
 | Math Director                | Sam Wong                     | F.4E                          |
 
-#### 2004–05
+## 2004–05
 
 | Position                     | Name                         | Class                         |
 |------------------------------|------------------------------|-------------------------------|
@@ -293,7 +298,7 @@ Listed below are the executive committees of the mathematics society over the ye
 | Financial Secretary           | Chow Chit Kwong               | 6B                            |
 | Publication Secretary         | Sam Wong                      | 3E                            |
 
-#### 2003–04
+## 2003–04
 
 | Position                     | Name                         | Class                         |
 |------------------------------|------------------------------|-------------------------------|
@@ -305,7 +310,7 @@ Listed below are the executive committees of the mathematics society over the ye
 | Financial Secretary           | Ray Mak                       | 6C                            |
 | Publication Secretary         | Derrick Fok                   | 6B                            |
 
-#### 2002–03
+## 2002–03
 
 | Position                     | Name                         | Class                         |
 |------------------------------|------------------------------|-------------------------------|
@@ -318,7 +323,7 @@ Listed below are the executive committees of the mathematics society over the ye
 | External Secretary            | Wong Sze Kin, Timothy                | 6B                            |
 | Financial Secretary           | Leung Ho Kai                       | 6B                            |
 
-#### 2001–02
+## 2001–02
 
 | Position                     | Name                         | Class                         |
 |------------------------------|------------------------------|-------------------------------|
@@ -331,11 +336,11 @@ Listed below are the executive committees of the mathematics society over the ye
 | Honourable Designer           | Marcus Lam                    | 6C                            |
 
 
-#### 2000-01
+## 2000-01
 
 To be filled in
 
-#### 1999–2000
+## 1999–2000
 
 | Position                     | Name                         | Class                         |
 |------------------------------|------------------------------|-------------------------------|
@@ -346,7 +351,7 @@ To be filled in
 | Technical Support            | Mak Pak Kei, Leo             | L.6B                          |
 | Public Relations Officer     | Ip Chi Ho, Ivan              | 4E                            |
 
-#### 1998-99
+## 1998-99
 
 | Position                     | Name                         | Class                         |
 |------------------------------|------------------------------|-------------------------------|
@@ -357,7 +362,7 @@ To be filled in
 | External Secretary           | Chan Wai Chi                 | 6B                            |
 | Treasurer                    | Bernard Lee                  | 6B                            |
 
-#### 1997-98
+## 1997-98
 
 | Position                     | Name                         | Class                         |
 |------------------------------|------------------------------|-------------------------------|
@@ -368,7 +373,7 @@ To be filled in
 | External Secretary           | Eric Cheung                  | 6B                            |
 | Treasurer                    | Victor Tam                   | 6B                            |
 
-#### 1996-97
+## 1996-97
 
 | Position                     | Name                         | Class                         |
 |------------------------------|------------------------------|-------------------------------|
@@ -383,7 +388,7 @@ To be filled in
 | Designer                     | Chappy Kwan                  | 6B                            |
 | Chief Tutor                  | Thomas Lo                    | 6B                            |
 
-#### 1995-96
+## 1995-96
 
 | Position                     | Name                         | Class                         |
 |------------------------------|------------------------------|-------------------------------|
@@ -397,7 +402,82 @@ To be filled in
 | Academic Secretary           | Alan Chan                    | 6B                            |
 | Academic Secretary           | Gabriel Ho                   | 6B                            |
 
+## 1994–95
 
-#### Sources
+| Position                     | Name                         | Class                         |
+|------------------------------|------------------------------|-------------------------------|
+| Chairman                     | Keung Ching Tung             | 6B                            |
+| Vice-chairman                | Sunny Ngan                   | 6B                            |
+| Vice-chairman                | Billy Wong                   | 6B                            |
+| Internal Secretary           | Joseph Wong                  | 6B                            |
+| External Secretary           | Antares Au                   | 4E                            |
+| Publication Secretary        | Edwin Shan                   | 6B                            |
+| Publication Secretary        | Vincent Ng                   | 6B                            |
+| Financial Secretary          | Yip Ka Chi                   | 6B                            |
+| Academic Secretary           | David Lam                    | 6B                            |
+| Academic Secretary           | Christopher Poon             | 6B                            |
+| Promotion Officer            | Andy Lo                      | 6B                            |
+| Personnel Officer            | Cheung Kar Man               | 6B                            |
+| Personnel Officer            | Louis Cheung                 | 4D                            |
+
+## 1993–94
+
+| Position                     | Name                         | Class                         |
+|------------------------------|------------------------------|-------------------------------|
+| Chairman                     | Cheung Ka Fu, Richard        | L6B                           |
+| Vice-Chairman                | Sze Shun Num, Joseph         | L6B                           |
+| Vice-Chairman                | Tam Sze Lam, Patrick         | L6B                           |
+| Chief Secretary              | Chan Kim Wai, Sammy          | L6C                           |
+| Internal Secretary           | Ma Hing Tung                 | L6B                           |
+| External Secretary           | Tang Lap Yin, Joseph         | L6C                           |
+| Financial Secretary          | Lee Wai Tong, Samson         | L6C                           |
+| Chief Tutor                  | Cheng Chun Kong, Reynold     | L6B                           |
+| Chief Tutor                  | Ng Yi On, Simon              | L6B                           |
+| Project Manager              | Keung Ching Tung             | 5E                            |
+| P. R. O.                     | Man Ho Kee, Harry            | L6B                           |
+| P. R. O.                     | Ng Pak Him, Patrick          | L6B                           |
+| P. R. O.                     | Lee Sai Ho, Andrew           | L6C                           |
+| Student Adviser              | Tin Ying Kit, Allen          | U6B                           |
+| Student Adviser              | Liu Sze Ming, Atkin          | U6B                           |
+| Student Adviser              | Kwok Yat Fai, Cyril          | U6B                           |
+
+## 1992–93
+
+| Position                     | Name                         | Class                         |
+|------------------------------|------------------------------|-------------------------------|
+| President                    | Tin Ying Kit, Allen          | 6B                            |
+| Vice-President               | Kwok Yat Fai, Cyril          | 6B                            |
+| Vice-President               | Lui Sze Ming, Atkin          | 6B                            |
+| Internal Secretary           | Ho King San, Sunny           | 6C                            |
+| External Secretary           | Chow Chung Mo, Valence       | 6B                            |
+| General Secretary            | Rockson Wai                  | 6B                            |
+| Financial Secretary          | Augustine Chin               | 6B                            |
+| Art Designer                 | Johnny Yip                   | 6B                            |
+| Chief Tutor                  | Wong Ming Yip, Wallace       | 6B                            |
+| Personnel Officer            | Brian Chung                  | 6B                            |
+| Personnel Officer            | Chan Ka Tai, Victor          | 6B                            |
+| Personnel Officer            | Davidson Wan                 | 6B                            |
+| Student Adviser              | Tony Tam                     | 7B                            |
+
+## 1991–92
+
+| Position                     | Name                         | Class                         |
+|------------------------------|------------------------------|-------------------------------|
+| Chairman                     | Tony Tam                     | 6B                            |
+| Vice-chairman                | Alain Lam                    | 6B                            |
+| Vice-chairman                | Philip Ho                    | 6B                            |
+| Internal Secretary           | Alan Lau                     | 6B                            |
+| Internal Secretary           | Peter Lam                    | 6B                            |
+| External Secretary           | Charles Chan                 | 6B                            |
+| Treasurer                    | Maurice Loo                  | 6B                            |
+| Social Convenor              | Alfred Ibrahim               | 6B                            |
+| Social Convenor              | Dickson Ma                   | 6B                            |
+| Social Convenor              | Clarence Tsui                | 6B                            |
+| Social Convenor              | Andrew Li                    | 6B                            |
+| Committee member             | Johnny Chan                  | 6B                            |
+| Committee member             | Michael Chau                 | 4F                            |
+| Committee member             | Durward Kan                  | 4F                            |
+
+## Sources
 
 [here](https://sjcmathssoc.github.io/2020/11/15/historical-evidence-of-the-mathematics-society.html)
