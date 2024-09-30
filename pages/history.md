@@ -2,6 +2,7 @@
 layout: page
 title:  "History"
 date:   2020-11-15 15:31:44 +0800
+permalink: /history
 redirect_from: 
     - /2020/11/15/historical-evidence-of-the-mathematics-society
 exclude: true
