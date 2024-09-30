@@ -335,10 +335,16 @@ Listed below are the executive committees of the mathematics society over the ye
 | Financial Secretary           | Matsuta Ng                    | 6B                            |
 | Honourable Designer           | Marcus Lam                    | 6C                            |
 
-
 ## 2000-01
 
-To be filled in
+| Position               | Name          | Class |
+|------------------------|---------------|-------|
+| Chairman               | Kenneth Mak   | L.6B  |
+| Vice Chairman          | Henry Chiu    | L.6B  |
+| Vice Chairman          | Desmond Lee   | L.6B  |
+| Internal Secretary     | Jason Chen    | L.6B  |
+| External Secretary     | Matsuba Ng    | L.6B  |
+| Financial Secretary    | Michael Yeung | L.6B  |
 
 ## 1999–2000
 
