@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Geometry Reference"
+permalink: /geometry-reference
 redirect_from: 
     - /2020/12/27/geometry-reference
 exclude: true

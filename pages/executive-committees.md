@@ -115,6 +115,8 @@ Listed below are the executive committees of the mathematics society over the ye
 |------------------------------|------------------------------|
 | Chairman                     | Chan Chun Wing               |
 
+Other committees unknown
+
 ## 2015–16
 
 | Position                     | Name                         |

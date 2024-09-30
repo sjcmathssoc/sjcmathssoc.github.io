@@ -1,6 +1,7 @@
 ---
 layout: page
 title:  "Messages from past presidents"
+permalink: /messages
 published: false
 ---
 

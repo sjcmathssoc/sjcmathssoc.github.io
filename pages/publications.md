@@ -1,6 +1,7 @@
 ---
 layout: page
 title:  "Publications"
+permalink: /publications
 exclude: true
 ---
 
