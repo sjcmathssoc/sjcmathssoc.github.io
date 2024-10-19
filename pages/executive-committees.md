@@ -20,17 +20,17 @@ Listed below are the executive committees of the mathematics society over the ye
 | Position             | Name                           | Class |
 |----------------------|--------------------------------|-------|
 | President            | Cheung Tsz Chun Andy           | 5F    |
-| Vice President       | Lam Ho Cheung Forest           | 5F    |
-| Vice President       | Lam Cheuk Hong Leo             | 5F    |
-| Vice President       | Cheung Chadwick Corwin         | 5F    |
+| General Vice President        | Lam Ho Cheung Forest           | 5F    |
+| Internal Vice President       | Lam Cheuk Hong Leo             | 5F    |
+| External Vice President       | Cheung Chadwick Corwin         | 5F    |
 | Financial Secretary  | Kwok Ching Fung Rayn           | 5F    |
-| Internal Secretary   | Yeung Sai Hong Thaddeus        | 3E    |
+| General Secretary    | Yeung Sai Hong Thaddeus        | 3E    |
 | Marketing Secretary  | Tang Ming Wai Michael          | 5F    |
 | Chief Designer       | Chan Yin Long Kyle             | 5F    |
 | Maths Designer       | Tang Ka Lam Jack               | 3E    |
 | Maths Designer       | Lee Hin Chun Isaac             | 2E    |
 | Maths Designer       | Zeng Zihang Henry              | 4D    |
-| Student Coordinator  | Shek Ka Ho Daniel              | 5F    |
+| Student Coordinator  | Shek Ka Ho Daniel              | 5E    |
 
 ## 2023–24
 
