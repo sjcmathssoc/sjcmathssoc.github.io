@@ -13,7 +13,7 @@ redirect_from:
     }
 </style>
 
-Listed below are the executive committees of the mathematics society over the years. The list is sadly incomplete.
+Listed below are the executive committees of the mathematics society over the years. 
 
 ## 2025-26
 
