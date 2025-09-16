@@ -15,6 +15,24 @@ redirect_from:
 
 Listed below are the executive committees of the mathematics society over the years. The list is sadly incomplete.
 
+## 2025-26
+
+| Position                     | Name                         | Class                         |
+|------------------------------|------------------------------|-------------------------------|
+| President                    | Jack Tang                    | 4F                            |
+| Vice President               | Isaac Lee                    | 3E                            |
+| Vice President               | Issac Wong                   | 4F                            |
+| Vice President               | Thaddeus Yeung               | 4F                            |
+| Internal Secretary           | Jonas Tam                    | 4F                            |
+| External Secretary           | Jacob Kwong                  | 4F                            |
+| Financial Secretary          | Taylor Wong                  | 5E                            |
+| Maths Designer               | Henry Zeng                   | 5D                            |
+| Maths Designer               | Martin Sun                   | 5F                            |
+| Maths Designer               | Isaac Tam                    | 4E                            |
+| Student Coordinator          | Andres                       | 2E                            |
+| Student Coordinator          | Hon Yee Lok                  | 2E                            |
+| Student Coordinator          | Jason Yan                    | 3E                            |
+
 ## 2024-25
 
 | Position             | Name                           | Class |
