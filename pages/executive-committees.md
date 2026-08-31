@@ -15,6 +15,22 @@ redirect_from:
 
 Listed below are the executive committees of the mathematics society over the years. 
 
+## 2026-27
+
+| Position | Name | Class |
+| --- | --- | --- |
+| President | Isaac Lee | 4F |
+| Vice President | Jack Tang | 5F |
+| Vice President | Thaddeus Yeung | 5F |
+| Vice President | Hanson Tan | 4F |
+| Financial Secretary | Dave Zhong | 4F |
+| General Secretary | Season Lu | 4F |
+| Chief Designer | Cyrus Yeung | 3E |
+| Maths Designer | Andres Lau | 3E |
+| Maths Designer | Enoch Hon | 3E |
+| Maths Designer | Aidan Tong | 4F |
+
+
 ## 2025-26
 
 | Position                     | Name                         | Class                         |
