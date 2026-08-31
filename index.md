@@ -26,10 +26,12 @@ Contact us by sending an email to sjcmathssoc@gmail.com
 
 ## Latest News 
 
-**2024 Mar**: We've created pages for our [past events](/events) and [publications](/publications).
+**2026 Sep**: We've updated the list of our [executive committees](/executive-committees).
 
-**2023 Oct**: We've updated the list of our [executive committees](/executive-committees).
+**2024 Mar**: We've created pages for our [past events](/events) and [publications](/publications).
 
 **2020 Dec**: We've released a [reference book](/geometry-reference) for geometry identities in HKDSE maths.
 
 **2020 Nov**: This website was created.
+
+**Last updated:** {{ site.time | date: "%B %d, %Y" }}
